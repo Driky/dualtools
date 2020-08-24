@@ -1,4 +1,4 @@
-package org.geepawhill.base
+package org.cedricchatelain.dualtools
 
 import tornadofx.*
 
