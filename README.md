@@ -2,7 +2,7 @@
 A software to help with crat and skill planning in the game
 Dual-Universe
 
-Stack
+## Stack
     One module
     JDK 14
     OpenJavaFx 14
