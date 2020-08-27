@@ -1,12 +1,15 @@
-# Base
-Base Project
+# Nanoplanner
+A software to help with crat and skill planning in the game
+Dual-Universe
+
+Stack
     One module
-    OpenJDK 13
-    OpenJavaFx 13
+    JDK 14
+    OpenJavaFx 14
     TornadoFx (~2.0, but it's not released yet)
     Gradle
     IntelliJ
 
-Before
--[x] Gradle, IntelliJ, OpenJDK, OpenJavaFx, TornadoFx
+
+
 
